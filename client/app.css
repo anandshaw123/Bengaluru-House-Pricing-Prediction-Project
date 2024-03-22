@@ -1,5 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
+
+
+.header {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.header h1 {
+    margin: 0;
+    color: #333;
+    font-size: 50px;
+}
+
+.header h3 {
+    margin: 10px 0 0;
+    color: #9aefac;
+    font-size: 21px;
+}
+
+
+
+
+
 .switch-field {
 	display: flex;
 	margin-bottom: 36px;
