@@ -47,7 +47,7 @@ In this data science project walks through step by step process, how to build a 
 
 •**Sklearn for model building**
 
-•**Jupyter notebook, visual studio code and pycharm as IDE**
+•**Jupyter notebook, visual studio code**
 
 •**Python flask for http server**
 
