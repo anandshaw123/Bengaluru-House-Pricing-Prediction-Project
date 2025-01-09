@@ -5,7 +5,7 @@
 
 
 ![Bengaluru-House-Pricing-Prediction-Project_website](https://github.com/anandshaw123/Bengaluru-House-Pricing-Prediction-Project/assets/129979768/7bb60fbe-20e3-487f-8320-763e1b70074e)
-                                               **How our project looks**
+                                                **How our project looks**
 
 
 
