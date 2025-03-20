@@ -22,7 +22,7 @@ https://github.com/anandshaw123/Bengaluru-House-Pricing-Prediction-Project/asset
 **How Our Project Works**
 
 
-## **Problem Statement:**
+## ❓ **Problem Statement:**
 Develop a Real Estate Price Prediction system that enables users to estimate property prices based on key features such as square footage, number of bedrooms, and location..The goal is to build a machine learning model using the Bengaluru House Prices dataset from Kaggle, selecting the best model through GridSearchCV and training it using Linear Regression.
 
 
@@ -35,15 +35,17 @@ Develop a Real Estate Price Prediction system that enables users to estimate pro
 
 
 
-## **Objective**
+## 🎯 **Objective**
 
 
 In this data science project walks through step by step process, how to build a **Real Estate Price** prediction WebSite.we will selecting **best model** using **GridSearchCv** and then i will build a model using **Sklearn** and **Linear Regression** using **Bengaluru_House_Prices** dataset from Kaggle. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html,css and javascript file that allows user to enter home square ft area, bedrooms etc and it will call python flask server to **retrieve** the predicted price. During model building. i shall cover all data science concepts such as **data load** and **Data Cleaning**, **Outlier Detection** and **Removal**, **Feature Engineering**, **Dimensionality Reduction**, **GridSearchCv** for **Hyperparameter Tunning**, **K Fold Cross Validation** etc.
 
 
-## **Tools**
+## 🛠️ **Tools**
 
 •**Python**
+
+• **Machine Learning**
 
 •**Numpy and Pandas for data cleaning**
 
@@ -60,9 +62,9 @@ In this data science project walks through step by step process, how to build a 
 
 
 
+## 📘 Use Case:
 
-
-
-
-
-
+- Investors can assess property appreciation trends before making buying decisions.
+- Sellers can determine a competitive selling price to attract buyers.
+- Buyers can estimate whether a property is fairly priced based on market trends.
+- Landlords can determine optimal rental prices based on property characteristics.
