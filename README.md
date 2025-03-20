@@ -22,6 +22,10 @@ https://github.com/anandshaw123/Bengaluru-House-Pricing-Prediction-Project/asset
 **How Our Project Works**
 
 
+## **Problem Statement:**
+Develop a Real Estate Price Prediction system that enables users to estimate property prices based on key features such as square footage, number of bedrooms, and location..The goal is to build a machine learning model using the Bengaluru House Prices dataset from Kaggle, selecting the best model through GridSearchCV and training it using Linear Regression.
+
+
 
 
 
